@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. John Doe",
+        "specialty": "Cardiologist",
+        "schedule": {
+            "Monday": "18:00 - 21:00",
+            "Tuesday": "18:00 - 21:00",
+            "Wednesday": "18:00 - 21:00",
+            "Thursday": "18:00 - 21:00",
+            "Friday": "18:00 - 21:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 10
+    },
+    {
+        "id": 2,
+        "name": "Dr. Jane Smith",
+        "specialty": "Dermatologist",
+        "schedule": {
+            "Monday": "16:00 - 19:00",
+            "Tuesday": "16:00 - 19:00",
+            "Wednesday": "16:00 - 19:00",
+            "Thursday": "16:00 - 19:00",
+            "Friday": "16:00 - 19:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 8
+    },
+    {
+        "id": 3,
+        "name": "Dr. David Johnson",
+        "specialty": "Orthopedic Surgeon",
+        "schedule": {
+            "Monday": "09:00 - 12:00",
+            "Tuesday": "09:00 - 12:00",
+            "Wednesday": "09:00 - 12:00",
+            "Thursday": "09:00 - 12:00",
+            "Friday": "09:00 - 12:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 12
+    },
+    {
+        "id": 4,
+        "name": "Dr. Emily Williams",
+        "specialty": "Pediatrician",
+        "schedule": {
+            "Monday": "10:00 - 13:00",
+            "Tuesday": "10:00 - 13:00",
+            "Wednesday": "10:00 - 13:00",
+            "Thursday": "10:00 - 13:00",
+            "Friday": "10:00 - 13:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 15
+    },
+    {
+        "id": 5,
+        "name": "Dr. Michael Brown",
+        "specialty": "Psychiatrist",
+        "schedule": {
+            "Monday": "14:00 - 17:00",
+            "Tuesday": "14:00 - 17:00",
+            "Wednesday": "14:00 - 17:00",
+            "Thursday": "14:00 - 17:00",
+            "Friday": "14:00 - 17:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 10
+    },
+    {
+        "id": 6,
+        "name": "Dr. Sarah Martinez",
+        "specialty": "Gynecologist",
+        "schedule": {
+            "Monday": "08:00 - 11:00",
+            "Tuesday": "08:00 - 11:00",
+            "Wednesday": "08:00 - 11:00",
+            "Thursday": "08:00 - 11:00",
+            "Friday": "08:00 - 11:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 12
+    },
+    {
+        "id": 7,
+        "name": "Dr. Robert Lee",
+        "specialty": "Ophthalmologist",
+        "schedule": {
+            "Monday": "15:00 - 18:00",
+            "Tuesday": "15:00 - 18:00",
+            "Wednesday": "15:00 - 18:00",
+            "Thursday": "15:00 - 18:00",
+            "Friday": "15:00 - 18:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 10
+    },
+    {
+        "id": 8,
+        "name": "Dr. Maria Garcia",
+        "specialty": "Family Physician",
+        "schedule": {
+            "Monday": "11:00 - 14:00",
+            "Tuesday": "11:00 - 14:00",
+            "Wednesday": "11:00 - 14:00",
+            "Thursday": "11:00 - 14:00",
+            "Friday": "11:00 - 14:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 15
+    },
+    {
+        "id": 9,
+        "name": "Dr. James Taylor",
+        "specialty": "Neurologist",
+        "schedule": {
+            "Monday": "13:00 - 16:00",
+            "Tuesday": "13:00 - 16:00",
+            "Wednesday": "13:00 - 16:00",
+            "Thursday": "13:00 - 16:00",
+            "Friday": "13:00 - 16:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 10
+    },
+    {
+        "id": 10,
+        "name": "Dr. Jennifer Clark",
+        "specialty": "ENT Specialist",
+        "schedule": {
+            "Monday": "09:00 - 12:00",
+            "Tuesday": "09:00 - 12:00",
+            "Wednesday": "09:00 - 12:00",
+            "Thursday": "09:00 - 12:00",
+            "Friday": "09:00 - 12:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 10
+    },
+    {
+        "id": 11,
+        "name": "Dr. William Rodriguez",
+        "specialty": "Urologist",
+        "schedule": {
+            "Monday": "14:00 - 17:00",
+            "Tuesday": "14:00 - 17:00",
+            "Wednesday": "14:00 - 17:00",
+            "Thursday": "14:00 - 17:00",
+            "Friday": "14:00 - 17:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 12
+    },
+    {
+        "id": 12,
+        "name": "Dr. Linda Wilson",
+        "specialty": "Gastroenterologist",
+        "schedule": {
+            "Monday": "10:00 - 13:00",
+            "Tuesday": "10:00 - 13:00",
+            "Wednesday": "10:00 - 13:00",
+            "Thursday": "10:00 - 13:00",
+            "Friday": "10:00 - 13:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 10
+    },
+    {
+        "id": 13,
+        "name": "Dr. Kimberly Thomas",
+        "specialty": "Endocrinologist",
+        "schedule": {
+            "Monday": "15:00 - 18:00",
+            "Tuesday": "15:00 - 18:00",
+            "Wednesday": "15:00 - 18:00",
+            "Thursday": "15:00 - 18:00",
+            "Friday": "15:00 - 18:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 12
+    },
+    {
+        "id": 14,
+        "name": "Dr. Edward White",
+        "specialty": "Rheumatologist",
+        "schedule": {
+            "Monday": "16:00 - 19:00",
+            "Tuesday": "16:00 - 19:00",
+            "Wednesday": "16:00 - 19:00",
+            "Thursday": "16:00 - 19:00",
+            "Friday": "16:00 - 19:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 8
+    },
+    {
+        "id": 15,
+        "name": "Dr. Susan Young",
+        "specialty": "Pulmonologist",
+        "schedule": {
+            "Monday": "13:00 - 16:00",
+            "Tuesday": "13:00 - 16:00",
+            "Wednesday": "13:00 - 16:00",
+            "Thursday": "13:00 - 16:00",
+            "Friday": "13:00 - 16:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 10
+    },
+    {
+        "id": 16,
+        "name": "Dr. Christopher Hall",
+        "specialty": "Allergist",
+        "schedule": {
+            "Monday": "10:00 - 13:00",
+            "Tuesday": "10:00 - 13:00",
+            "Wednesday": "10:00 - 13:00",
+            "Thursday": "10:00 - 13:00",
+            "Friday": "10:00 - 13:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 12
+    },
+    {
+        "id": 17,
+        "name": "Dr. Michelle Scott",
+        "specialty": "Oncologist",
+        "schedule": {
+            "Monday": "14:00 - 17:00",
+            "Tuesday": "14:00 - 17:00",
+            "Wednesday": "14:00 - 17:00",
+            "Thursday": "14:00 - 17:00",
+            "Friday": "14:00 - 17:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 10
+    },
+    {
+        "id": 18,
+        "name": "Dr. Daniel Garcia",
+        "specialty": "Dentist",
+        "schedule": {
+            "Monday": "09:00 - 12:00",
+            "Tuesday": "09:00 - 12:00",
+            "Wednesday": "09:00 - 12:00",
+            "Thursday": "09:00 - 12:00",
+            "Friday": "09:00 - 12:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 15
+    },
+    {
+        "id": 19,
+        "name": "Dr. Jessica Turner",
+        "specialty": "Dietician",
+        "schedule": {
+            "Monday": "11:00 - 14:00",
+            "Tuesday": "11:00 - 14:00",
+            "Wednesday": "11:00 - 14:00",
+            "Thursday": "11:00 - 14:00",
+            "Friday": "11:00 - 14:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 12
+    },
+    {
+        "id": 20,
+        "name": "Dr. Andrew Harris",
+        "specialty": "Physical Therapist",
+        "schedule": {
+            "Monday": "15:00 - 18:00",
+            "Tuesday": "15:00 - 18:00",
+            "Wednesday": "15:00 - 18:00",
+            "Thursday": "15:00 - 18:00",
+            "Friday": "15:00 - 18:00",
+            "Saturday": "Not available",
+            "Sunday": "Not available"
+        },
+        "maxAppointmentsPerSlot": 10
+    }
+]
